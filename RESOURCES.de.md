@@ -1,43 +1,8 @@
 # Resources
 
-[*Zurück zum Spielregeln*](./README.de.md)
+[*Zurück zu den Spielregeln*](./README.de.md)
 
-## QAtalks
-
-### UI-Design Quick Guide
-
-[Folien](https://docs.google.com/presentation/d/1Kgs227H3ZJo00d8KX8Ti33RDeDNjie_Nm63G8mhQFto/edit) (nur für QAware’ler)
-
-### User Centered Design
-
-[Folien](https://docs.google.com/presentation/d/1g11AXz9Xs710lYQfHyy3hGKDAluWYx19aiyLZlBJy_8/edit) (nur für QAware’ler)
-
-### Usability Test
-
-[Folien](https://docs.google.com/presentation/d/1OITg6rVwoCCoHaN4GvXUsfHL87gDn7SJ8tsvePZDv-A/edit) (nur für QAware’ler)
-
-### UX/UI Lernlandkarte
-
-[Confluence](https://qaware-confluence.atlassian.net/wiki/spaces/QACAMPUS/pages/201883734/UX+UI+Lernlandkarte) (nur für QAware’ler)
-
-> Vorerst bringt dich ein Klick auf die Landkarten UX und UI zu Präsentationen, die dir einen Überblick auf das jeweilige Thema verschaffen. Zu UI liegt mit “Usability Test” auch ein Unterthema vor, auf das du mit Klick auf die Landkarte mit gekennzeichneter Usability-Test-Kachel Zugriff erhältst. In den nächsten Ausbauschritten wird eine interaktive Lernlandkarte entwickelt, auf der du jede Kachel anklicken kannst, um auf dem entsprechenden Thema zu landen.
-
-<details>
-
-<summary>Landkarten</summary>
-
-![Landkarte 1](resources/landkarte1.png)
-
-![Landkarte 2](resources/landkarte2.png)
-
-![Landkarte 3](resources/landkarte3.png)
-
-</details>
-
-### UI Design mit Figma
-
-[Folien](https://docs.google.com/presentation/d/1SYX1Yf6GhxBm2kbNFBHFbeEjGR0mnM65bvjr0SBKNMU/edit) (nur für QAware’ler)
-
+## Wenn du deine Analyse in die Hände von Profis legen willst: Die QAware bietet UI/UX-Reviews an!
 ## UX Qualitätszeile
 
 - Zufriedenheit der Nutzer mit dem Tool
@@ -170,3 +135,28 @@ Motivierende Gestaltung, risikofreie Nutzung und Integration der Benutzer in Ver
 - Design Patterns von vergleichbarer Software analysieren
 - Wettbewerbs-Analyse. Was kann vom Wettbewerb gelernt werden?
 - Marktanalyse, wer braucht was wieviel und wie oft?
+
+
+## QAware-interne Ressourcen
+Keine Sorge, wenn du nicht zur QAware gehörst: Du kannst erfolgreich mit den oben bereitgestellen Ressourcen teilnehmen.
+
+### UI-Design Quick Guide
+
+[Folien](https://docs.google.com/presentation/d/1Kgs227H3ZJo00d8KX8Ti33RDeDNjie_Nm63G8mhQFto/edit) 
+
+### User Centered Design
+
+[Folien](https://docs.google.com/presentation/d/1g11AXz9Xs710lYQfHyy3hGKDAluWYx19aiyLZlBJy_8/edit) 
+
+### Usability Test
+
+[Folien](https://docs.google.com/presentation/d/1OITg6rVwoCCoHaN4GvXUsfHL87gDn7SJ8tsvePZDv-A/edit) 
+
+### UX/UI Lernlandkarte
+
+[Confluence](https://qaware-confluence.atlassian.net/wiki/spaces/QACAMPUS/pages/201883734/UX+UI+Lernlandkarte) 
+
+### UI Design mit Figma
+
+[Folien](https://docs.google.com/presentation/d/1SYX1Yf6GhxBm2kbNFBHFbeEjGR0mnM65bvjr0SBKNMU/edit) 
+
