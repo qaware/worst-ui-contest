@@ -2,7 +2,7 @@
 
 [*Zurück zu den Spielregeln*](./README.de.md)
 
-## Wenn du deine Analyse in die Hände von Profis legen willst: Die QAware bietet UI/UX-Reviews an!
+### Wenn du deine Analyse in die Hände von Profis legen willst: Die QAware bietet UI/UX-Reviews an!
 ## UX Qualitätszeile
 
 - Zufriedenheit der Nutzer mit dem Tool
