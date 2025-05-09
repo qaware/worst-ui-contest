@@ -4,7 +4,7 @@
 
 Willkommen beim Worst UI Contest!
 
-Hier geht es darum, über schlechte UIs und Dark-Patterns zu lernen, in dem ihr einen baut!
+Hier geht es darum, etwas über schlechte UIs, Dark-Patterns und deren Analyse zu lernen, indem ihr sie selber erstellt und analysiert!
 
 ## Ziel des Spiels
 
@@ -12,9 +12,7 @@ Hier geht es darum, über schlechte UIs und Dark-Patterns zu lernen, in dem ihr 
 - Etwas über UI/UX lernen.
 - Und für die Kompetitiven unter uns: Gewinnen!
 
-Es wird Preise für die besten / schlechten / hässlichsten Einreichung und die beste Analyse geben geben.
-
-Es wird einen Sieger durch Publikumsvoting geben und einen Sieger für die beste Analyse, warum die eingereichte UI so schlimm ist.
+Es wird einen Sieger durch Publikumsvoting geben und einen Sieger für die beste Analyse, warum die eingereichte UI so schlimm ist. Für beide Sieger gibt es natürlich Preise.
 
 ## Teilnahme
 
@@ -24,7 +22,7 @@ Entweder ihr gründet ein Team und sucht euch Techies oder ihr erstellt Mockups 
 
 ## Analysen der Umsetzungen
 
-Bei jeder Einreichung **musst** ihr eine Analyse geben:
+Bei jeder Einreichung **müsst** ihr eine Analyse geben:
 **Was ist in meiner UI schlecht?**
 
 Die Analyse muss mindestens einen Satz lang sein und ist begrenzt auf maximal 5 Grundprobleme der UI.
@@ -40,16 +38,16 @@ Postet einen Slack-Post in [#ec25-worst-ui](https://qaware.slack.com/archives/C0
 - *optional gerne auch ein Repo/einen Demo-Link dazu*
 - Analyse der verletzten Gestaltungsprinzipien und -normen (mindestens einen Satz).
 
-Einreichungsfrist: vor dem Arbeitstag am kommenden Montag, dem 19. Mai.
+Einreichungsfrist: vor dem Arbeitsbeginn am kommenden Montag, dem 19. Mai.
 
-*Wichtig*: Reicht nur das ein, das im QAtalk „Gestaltungsprinzipien und -normen“ verwenden werden darf (keine kundenspezifischen UIs).
+*Wichtig*: Reicht nur das ein, was in einem QAtalk verwendet werden darf, insbesondere keine kundenspezifischen UIs.
 
 ## Voting
 
-Jeder kann ans Publikumsvoting teilnehmen.
-Vergebe einfach das Emoji <img style="height: 1lh; vertical-align: bottom;" src="./xdddd.gif"> `:xdddd:` an jedem Post, der dir gefällt!
+Jeder kann am Publikumsvoting teilnehmen.
+Vergebe einfach das Emoji <img style="height: 1lh; vertical-align: bottom;" src="./xdddd.gif"> `:xdddd:` an jeden Post, der dir gefällt!
 
-Frist: vor dem Arbeitstag am Dienstag, dem 20. Mai 2025
+Frist: Vor dem Arbeitstag am Dienstag, dem 20. Mai 2025.
 
 ## Siegerehrung
 
