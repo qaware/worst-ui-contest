@@ -114,7 +114,7 @@ Motivierende Gestaltung, risikofreie Nutzung und Integration der Benutzer in Ver
 - Objektbeschriftung außerhalb des Eingabefelds
 - Animationen limitieren
 
-## Nächste Schritte nach einem Reviews
+## Nächste Schritte nach einer Review
 
 ### Nutzer
 
