@@ -4,7 +4,7 @@
 
 Welcome to the Worst UI Contest!
 
-This is about learning about bad UIs and dark patterns through building them!
+This is about learning about bad UIs and dark patterns and their review through building and reviewing them!
 
 ## Aim of the game
 
@@ -12,9 +12,7 @@ This is about learning about bad UIs and dark patterns through building them!
 - Learn about UI/UX.
 - And for the competitive among you: Win!
 
-There will be prizes for the best/worst/ugliest submission and the best analysis.
-
-There will be a winner by public voting and a winner for the best analysis of why the submitted UI is so bad.
+There will be a winner by public voting and a winner for the best analysis of why the submitted UI is so bad. For both winners there will be prizes.
 
 ## Participation
 
@@ -42,7 +40,7 @@ Post a Slack post in [#ec25-worst-ui](https://qaware.slack.com/archives/C08Q8602
 
 Submission deadline: before the working day on Monday 19 May.
 
-*Important*: Please only submit designs that we can use in the upcoming QAtalk “Design principles and standards” (no UIs from customer projects).
+*Important*: Please only submit designs that we can use in an upcoming QAtalk (no UIs from customer projects).
 
 ## Voting
 
