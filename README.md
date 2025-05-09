@@ -29,7 +29,7 @@ With every submission you **must** give an analysis:
 
 The analysis must be at least one sentence long and is limited to a maximum of 5 fundamental problems with the UI.
 
-Tried and tested criteria for UI/UX reviews can be found [here](TODO).
+Tried and tested criteria for UI/UX reviews can be found [here (German only)](./RESOURCES.de.md).
 
 ## Submission
 

@@ -29,7 +29,7 @@ Bei jeder Einreichung **musst** ihr eine Analyse geben:
 
 Die Analyse muss mindestens einen Satz lang sein und ist begrenzt auf maximal 5 Grundprobleme der UI.
 
-Erprobte Kriterien für UI/UX-Reviews findet ihr [hier](TODO).
+Erprobte Kriterien für UI/UX-Reviews findet ihr [hier](./RESOURCES.de.md).
 
 ## Einreichung
 
