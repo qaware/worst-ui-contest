@@ -1,107 +1,40 @@
 # Worst UI Contest
 
-[*Deutsche Version*](./README.de.md)
+Willkommen beim Worst UI Contest!
 
-Welcome to the Worst UI Contest!
+Hier geht es darum, etwas über schlechte UIs, Dark-Patterns und deren Analyse zu lernen, indem ihr sie selber erstellt und analysiert!
 
-This is about learning about bad UIs and dark patterns and their review through building and reviewing them!
+## Ziel des Spiels
 
-## Aim of the game
+- Spaß haben.
+- Etwas über UI/UX lernen.
+- Und für die Kompetitiven unter uns: Gewinnen!
 
-- Have fun.
-- Learn about UI/UX.
-- And for the competitive among you: Win!
+## Analysen der Umsetzungen
 
-There will be a winner by public voting and a winner for the best analysis of why the submitted UI is so bad. For both winners there will be prizes.
+Bei jeder Einreichung **müsst** ihr eine Analyse geben:
+**Was ist in meiner UI schlecht?**
 
-## Participation
+Die Analyse muss mindestens einen Satz lang sein und ist begrenzt auf maximal 5 Grundprobleme der UI.
 
-Teams of up to 4 people are possible, but not mandatory.
-You can also participate as a non-techie:
-Either form a team and find techies, or create mockups for your terrible UI using software such as PowerPoint or Canva.
+Erprobte Kriterien für UI/UX-Reviews findet ihr [hier](./RESOURCES.md).
 
-## Analysis of the implementation
+## Thema
 
-With every submission you **must** give an analysis:
-**What's bad about my UI?**
+Falls ihr Inspiration braucht, könnt ihr euch gerne UIs zu den folgenden Themen überlegen:
 
-The analysis must be at least one sentence long and is limited to a maximum of 5 fundamental problems with the UI.
-
-Tried and tested criteria for UI/UX reviews can be found [here (German only)](./RESOURCES.de.md).
-
-## Submission
-
-Post a Slack post in [#ec25-worst-ui](https://qaware.slack.com/archives/C08Q8602MQC), including:
-
-- Participant list, *optionally a team name*
-- Video of your creation (or screenshot, in case it isn't interactive or animated)
-- *optionally a repo/demo link as well*
-- Analysis of the violated design principles and standards (at least one sentence).
-
-Submission deadline: before the working day on Monday 19 May.
-
-*Important*: Please only submit designs that we can use in an upcoming QAtalk (no UIs from customer projects).
-
-## Voting
-
-Anyone can participate in the public voting.
-Just add the emoji <img style="height: 1lh; vertical-align: bottom" src="./xdddd.gif"> `:xdddd:` to any post you like!
-
-Deadline: before the working day on Tuesday, 20 May 2025
-
-## Award ceremony
-
-The announcement of the winners will take place during a QAtalk in the coming weeks.
-
-## Theme
-
-If you need inspiration, you are welcome to come up with UIs on the topic of “Engineering Camp”.
+- Login-Seite
+- System-Einstellungen
 
 ## Template
 
-There are template applications available for you in this repo:
+Es stehen in diesem Repo Template-Anwendungen für euch zur Verfügung:
 
 - [Vue](./vue/)
 - [React](./react/)
 - [Angular](./angular/)
 - [HTML](./html/)
 
-You are also welcome to start with an existing application.
-However, this application must be publicly accessible:
-Submissions that use **code from customer projects** are **forbidden**.
-
-
-## Info for competitors
-
-### Competition categories
-
-#### Voters’ choice
-
-**Criterion**: Number of upvotes with specified emoji <img style="height: 1lh; vertical-align: bottom;" src="./xdddd.gif"> `:xdddd:` on the post in [#ec25-worst-ui](https://qaware.slack.com/archives/C08Q8602MQC).
-
-External participants can give their vote by proxy.
-
-#### Best analysis
-
-| Evaluation category       | Explanation                                                                                                            | Example                                                           |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Scope of issues addressed | How many basic UI issues were addressed?                                                                               | _The accessibility of the application is in need of improvement._ |
-| Justification             | Was it explained why this design violates principles?                                                                  | _You can hardly read the white text on a light grey background._  |
-| Reference to standards    | Does the analysis refer to specific guidelines / heuristics?                                                           | _This contradicts WCAG 2.2 in the point ‘Sufficient contrast’._   |
-| Bonus                     | Scope for the jury if something stands out positively in the analysis that is _not_ explicitly an evaluation criterion |                                                                   |
-
-There is a minimum of 0 and a maximum of 5 points per category.
-
-## Info for external guests and future colleagues
-
-If you are an external guest or not yet with us on Slack:
-
-You also have access to the repo. For submission and voting, please team up with your a QAware employee of your choice. There will be an additional comment in the submission channel for each submission in the thread, which can be used to vote on behalf of an external participant using <img style="height: 1lh; vertical-align: bottom;" src="./xdddd.gif"> `:xdddd:`. 
-
-Contact persons if required: nina.feifel@qaware.de, charlie.harding@qaware.de 
-
-If you want to receive your prize if you win, please include your e-mail address with your submission (either in the thread or by directly contacting Charlie/Nina) so that we can contact you if necessary.
-
-## Any questions?
-
-[#ec25-worst-ui-help](https://qaware.slack.com/archives/C08Q28PBUNR)
+Ihr könnt gerne auch mit einer bestehenden Anwendung anfangen.
+Diese Anwendung muss aber öffentlich zugänglich sein:
+Einreichungen, die **Code aus Projektkontext** verwenden, sind **verboten**.
